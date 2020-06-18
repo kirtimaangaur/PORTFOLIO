@@ -1,2 +1,2 @@
 # PORTFOLIO
-This is the portfolio website template
+This is the portfolio website template. Immage files will be uplaoded soon...
